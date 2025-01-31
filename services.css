@@ -1,0 +1,110 @@
+.santoor{
+    border: 2px solid blue;
+    margin-bottom: 45px;
+    padding: 30px 10px;
+    text-align: center;
+
+}.santoor i{ font-size: 40px;
+    color: blue;
+
+}
+.kumar{
+    background-color: blue;
+    color: white;
+}
+.kumar i{
+    color: white;
+}
+.santoormain{
+    margin-top: 80px;
+}
+.services{
+    background-color: rgb(33, 33, 163);
+    padding: 50px 0px;
+
+}
+.services h1{
+    color: #feb61a;
+}
+.services a{
+    text-decoration: none;
+}
+.images{
+    background-color: rgb(240, 235, 235);
+    padding: 25px 0px;
+}
+.all{
+    display: flex;
+}
+.all i{ display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 5px;
+    color: #feb61a;
+
+
+}
+.footer{
+    background-color: rgb(33, 33, 163);
+    color: white;
+    padding: 30px;
+
+}
+span{
+    color: #feb61a;
+    font-size: 40px;
+}
+.last{
+    margin-top: 20px;
+    border: 1px dashed white;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.chintu {
+    border-radius: 100% !important;
+    height: 36px;
+    width: 36px;
+    background-color: black;
+    line-height: 26px !important;
+
+}
+.hyper{
+    color: #feb61a !important
+    ;font-size: 20px !important;
+}
+
+
+
+.handymanmain{
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.handyman{
+    padding-top:91px;
+}
+.handyman a{
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 20px;
+    color: white;
+}
+.sub1{
+    background-color: #feb61a;
+}
+.wehave{
+    padding: 30px 0px;
+    background-color: rgb(213, 201, 201);
+}
+.wehavea a{
+    text-decoration: none;
+    border: 1px solid #feb61a ;
+    background-color: #feb61a;
+    color: white;
+    padding: 10px 18px;
+    
+}
